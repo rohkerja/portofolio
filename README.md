@@ -12,14 +12,14 @@ a simple list of projects. No frameworks, no build step.
 ├── index.html      # Page markup
 ├── styles.css      # All styling
 ├── assets/
-│   └── avatar.png  # Profile photo (square image)
+│   └── avatar.jpg  # Profile photo (square image)
 ├── .nojekyll       # Lets GitHub Pages serve files as-is
 └── README.md
 ```
 
 ## Customize
 
-- **Photo:** replace `assets/avatar.png` with your own image. A square photo
+- **Photo:** replace `assets/avatar.jpg` with your own image. A square photo
   (at least 400×400) works best; it is cropped into a circle.
 - **Name / role / bio:** edit the text in `index.html`.
 - **Email:** replace `hello@example.com` in `index.html`.
