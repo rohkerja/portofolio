@@ -23,7 +23,7 @@ with AI-assisted vibe coding.
 - **Photo:** replace `assets/avatar.jpg` with your own image. A square photo
   (at least 400×400) works best; it is cropped into a circle.
 - **Name / role / bio:** edit the text in `index.html`.
-- **Email:** replace `hello@example.com` in `index.html`.
+- **Email:** currently set to `rohkerja@gmail.com` in `index.html`.
 - **Projects:** edit the three rows in the Projects list. For a live project,
   turn the row into an `<a>` link; for upcoming ones, use the "Soon" style.
 - **Links:** update the GitHub URLs throughout `index.html`.
