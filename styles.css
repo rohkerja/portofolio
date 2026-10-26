@@ -155,6 +155,16 @@ svg {
   background: #fff;
 }
 
+.btn-outline {
+  border-color: rgba(255, 255, 255, 0.34);
+  background: rgba(255, 255, 255, 0.035);
+}
+
+.btn-outline:hover {
+  border-color: rgba(255, 255, 255, 0.62);
+  background: rgba(255, 255, 255, 0.09);
+}
+
 /* ---------- Projects ---------- */
 
 .projects {

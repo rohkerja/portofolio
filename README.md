@@ -1,7 +1,7 @@
 # rohportofolio
 
-A minimal, dark personal portfolio page: round profile photo, short intro, and
-a simple list of projects. No frameworks, no build step.
+A minimal, dark personal portfolio page for Rohmat Subekti: round profile photo,
+short intro, and a simple list of projects. No frameworks, no build step.
 
 **Live site:** https://rohkerja.github.io/rohportofolio/
 
