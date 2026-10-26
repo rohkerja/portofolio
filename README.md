@@ -1,7 +1,8 @@
 # rohportofolio
 
 A minimal, dark personal portfolio page for Rohmat Subekti: round profile photo,
-short intro, and a simple list of projects. No frameworks, no build step.
+short intro, and a simple list of projects. No frameworks, no build step — built
+with AI-assisted vibe coding.
 
 **Live site:** https://rohkerja.github.io/rohportofolio/
 
